@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UK Grocery Compare</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Login Section -->
+        <div id="login-section" class="container">
+            <h1>🛒 UK Grocery Compare</h1>
+            <p class="subtitle">Compare prices across UK supermarkets</p>
+            
+            <div class="auth-form">
+                <input type="email" id="email" placeholder="Email" />
+                <input type="password" id="password" placeholder="Password" />
+                <div class="btn-group">
+                    <button onclick="login()" class="btn btn-primary">Login</button>
+                    <button onclick="register()" class="btn btn-secondary">Register</button>
+                </div>
+                <p id="auth-message" class="error-message"></p>
+            </div>
+        </div>
+
+        <!-- Main App Section (hidden by default) -->
+        <div id="main-section" class="container" style="display: none;">
+            <header>
+                <h1>🛒 UK Grocery Compare</h1>
+                <div class="user-info">
+                    <span id="user-email"></span>
+                    <button onclick="logout()" class="btn btn-small">Logout</button>
+                </div>
+            </header>
+
+            <div class="main-content">
+                <!-- Left: Shopping List Builder -->
+                <div class="panel">
+                    <h2>Build Your Shopping List</h2>
+                    
+                    <div class="item-selector">
+                        <select id="item-picker">
+                            <option value="">Select an item...</option>
+                        </select>
+                        <input type="number" id="quantity" value="1" min="1" />
+                        <button onclick="addToBasket()" class="btn btn-primary">Add</button>
+                    </div>
+
+                    <h3>Your Basket</h3>
+                    <table id="basket-table">
+                        <thead>
+                            <tr>
+                                <th>Item</th>
+                                <th>Qty</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody id="basket-body">
+                        </tbody>
+                    </table>
+                    
+                    <div class="basket-actions">
+                        <input type="text" id="list-name" placeholder="List name" />
+                        <button onclick="saveList()" class="btn btn-secondary">Save List</button>
+                        <button onclick="clearBasket()" class="btn btn-danger">Clear</button>
+                    </div>
+                    <p id="save-message"></p>
+
+                    <h3>Saved Lists</h3>
+                    <div id="saved-lists"></div>
+                </div>
+
+                <!-- Right: Price Comparison -->
+                <div class="panel">
+                    <h2>Price Comparison</h2>
+                    
+                    <div id="recommendations">
+                        <h3>Cheapest Options</h3>
+                        <table id="recommendations-table">
+                            <thead>
+                                <tr>
+                                    <th>Item</th>
+                                    <th>Best Store</th>
+                                    <th>Price</th>
+                                </tr>
+                            </thead>
+                            <tbody id="recommendations-body">
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div id="totals">
+                        <h3>Store Totals</h3>
+                        <table id="totals-table">
+                            <thead>
+                                <tr>
+                                    <th>Store</th>
+                                    <th>Total</th>
+                                </tr>
+                            </thead>
+                            <tbody id="totals-body">
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div id="savings">
+                        <h3 id="savings-text"></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
