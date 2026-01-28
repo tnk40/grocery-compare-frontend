@@ -1,0 +1,801 @@
+item,category,unit,store,price_per_unit_gbp,last_updated,notes
+Apples Loose,Fruit,each,Tesco,1.05,2026-01-24,Loose apples per apple equivalent
+Apples Loose,Fruit,each,Sainsburys,1.09,2026-01-24,Loose apples per apple equivalent
+Apples Loose,Fruit,each,Waitrose,1.16,2026-01-24,Loose apples per apple equivalent
+Apples Loose,Fruit,each,Asda,1.01,2026-01-24,Loose apples per apple equivalent
+Apples Loose,Fruit,each,Morrisons,1.02,2026-01-24,Loose apples per apple equivalent
+Apples Loose,Fruit,each,Aldi,0.93,2026-01-24,Loose apples per apple equivalent
+Apples Loose,Fruit,each,Lidl,0.96,2026-01-24,Loose apples per apple equivalent
+Apples Loose,Fruit,each,Ocado,1.21,2026-01-24,Loose apples per apple equivalent
+Apples Organic Loose,Fruit,each,Tesco,1.0,2026-01-24,Organic loose apples per apple equivalent
+Apples Organic Loose,Fruit,each,Sainsburys,0.97,2026-01-24,Organic loose apples per apple equivalent
+Apples Organic Loose,Fruit,each,Waitrose,1.18,2026-01-24,Organic loose apples per apple equivalent
+Apples Organic Loose,Fruit,each,Asda,0.94,2026-01-24,Organic loose apples per apple equivalent
+Apples Organic Loose,Fruit,each,Morrisons,1.03,2026-01-24,Organic loose apples per apple equivalent
+Apples Organic Loose,Fruit,each,Aldi,0.98,2026-01-24,Organic loose apples per apple equivalent
+Apples Organic Loose,Fruit,each,Lidl,0.94,2026-01-24,Organic loose apples per apple equivalent
+Apples Organic Loose,Fruit,each,Ocado,1.13,2026-01-24,Organic loose apples per apple equivalent
+Bananas Loose,Fruit,each,Tesco,1.1,2026-01-24,Per banana equivalent
+Bananas Loose,Fruit,each,Sainsburys,1.23,2026-01-24,Per banana equivalent
+Bananas Loose,Fruit,each,Waitrose,1.31,2026-01-24,Per banana equivalent
+Bananas Loose,Fruit,each,Asda,1.13,2026-01-24,Per banana equivalent
+Bananas Loose,Fruit,each,Morrisons,1.19,2026-01-24,Per banana equivalent
+Bananas Loose,Fruit,each,Aldi,1.06,2026-01-24,Per banana equivalent
+Bananas Loose,Fruit,each,Lidl,1.06,2026-01-24,Per banana equivalent
+Bananas Loose,Fruit,each,Ocado,1.3,2026-01-24,Per banana equivalent
+Bananas Organic Loose,Fruit,each,Tesco,0.91,2026-01-24,Organic bananas per banana equivalent
+Bananas Organic Loose,Fruit,each,Sainsburys,0.99,2026-01-24,Organic bananas per banana equivalent
+Bananas Organic Loose,Fruit,each,Waitrose,1.14,2026-01-24,Organic bananas per banana equivalent
+Bananas Organic Loose,Fruit,each,Asda,0.97,2026-01-24,Organic bananas per banana equivalent
+Bananas Organic Loose,Fruit,each,Morrisons,1.02,2026-01-24,Organic bananas per banana equivalent
+Bananas Organic Loose,Fruit,each,Aldi,0.92,2026-01-24,Organic bananas per banana equivalent
+Bananas Organic Loose,Fruit,each,Lidl,0.94,2026-01-24,Organic bananas per banana equivalent
+Bananas Organic Loose,Fruit,each,Ocado,1.19,2026-01-24,Organic bananas per banana equivalent
+Oranges Loose,Fruit,each,Tesco,0.73,2026-01-24,Loose oranges per orange equivalent
+Oranges Loose,Fruit,each,Sainsburys,0.76,2026-01-24,Loose oranges per orange equivalent
+Oranges Loose,Fruit,each,Waitrose,0.81,2026-01-24,Loose oranges per orange equivalent
+Oranges Loose,Fruit,each,Asda,0.75,2026-01-24,Loose oranges per orange equivalent
+Oranges Loose,Fruit,each,Morrisons,0.76,2026-01-24,Loose oranges per orange equivalent
+Oranges Loose,Fruit,each,Aldi,0.7,2026-01-24,Loose oranges per orange equivalent
+Oranges Loose,Fruit,each,Lidl,0.73,2026-01-24,Loose oranges per orange equivalent
+Oranges Loose,Fruit,each,Ocado,0.9,2026-01-24,Loose oranges per orange equivalent
+Blueberries 200g,Fruit,100g,Tesco,0.86,2026-01-24,Typically sold in 200g punnet; priced per 100g
+Blueberries 200g,Fruit,100g,Sainsburys,0.91,2026-01-24,Typically sold in 200g punnet; priced per 100g
+Blueberries 200g,Fruit,100g,Waitrose,0.94,2026-01-24,Typically sold in 200g punnet; priced per 100g
+Blueberries 200g,Fruit,100g,Asda,0.85,2026-01-24,Typically sold in 200g punnet; priced per 100g
+Blueberries 200g,Fruit,100g,Morrisons,0.87,2026-01-24,Typically sold in 200g punnet; priced per 100g
+Blueberries 200g,Fruit,100g,Aldi,0.75,2026-01-24,Typically sold in 200g punnet; priced per 100g
+Blueberries 200g,Fruit,100g,Lidl,0.83,2026-01-24,Typically sold in 200g punnet; priced per 100g
+Blueberries 200g,Fruit,100g,Ocado,0.98,2026-01-24,Typically sold in 200g punnet; priced per 100g
+Strawberries 400g,Fruit,100g,Tesco,0.31,2026-01-24,Typically sold in 400g pack; priced per 100g
+Strawberries 400g,Fruit,100g,Sainsburys,0.31,2026-01-24,Typically sold in 400g pack; priced per 100g
+Strawberries 400g,Fruit,100g,Waitrose,0.36,2026-01-24,Typically sold in 400g pack; priced per 100g
+Strawberries 400g,Fruit,100g,Asda,0.31,2026-01-24,Typically sold in 400g pack; priced per 100g
+Strawberries 400g,Fruit,100g,Morrisons,0.3,2026-01-24,Typically sold in 400g pack; priced per 100g
+Strawberries 400g,Fruit,100g,Aldi,0.27,2026-01-24,Typically sold in 400g pack; priced per 100g
+Strawberries 400g,Fruit,100g,Lidl,0.28,2026-01-24,Typically sold in 400g pack; priced per 100g
+Strawberries 400g,Fruit,100g,Ocado,0.36,2026-01-24,Typically sold in 400g pack; priced per 100g
+Grapes Seedless 500g,Fruit,100g,Tesco,1.06,2026-01-24,Typically sold in 500g pack; priced per 100g
+Grapes Seedless 500g,Fruit,100g,Sainsburys,1.08,2026-01-24,Typically sold in 500g pack; priced per 100g
+Grapes Seedless 500g,Fruit,100g,Waitrose,1.24,2026-01-24,Typically sold in 500g pack; priced per 100g
+Grapes Seedless 500g,Fruit,100g,Asda,0.95,2026-01-24,Typically sold in 500g pack; priced per 100g
+Grapes Seedless 500g,Fruit,100g,Morrisons,1.06,2026-01-24,Typically sold in 500g pack; priced per 100g
+Grapes Seedless 500g,Fruit,100g,Aldi,0.94,2026-01-24,Typically sold in 500g pack; priced per 100g
+Grapes Seedless 500g,Fruit,100g,Lidl,1.0,2026-01-24,Typically sold in 500g pack; priced per 100g
+Grapes Seedless 500g,Fruit,100g,Ocado,1.21,2026-01-24,Typically sold in 500g pack; priced per 100g
+Lemons Loose,Fruit,each,Tesco,1.64,2026-01-24,Loose lemons per lemon equivalent
+Lemons Loose,Fruit,each,Sainsburys,1.72,2026-01-24,Loose lemons per lemon equivalent
+Lemons Loose,Fruit,each,Waitrose,1.84,2026-01-24,Loose lemons per lemon equivalent
+Lemons Loose,Fruit,each,Asda,1.64,2026-01-24,Loose lemons per lemon equivalent
+Lemons Loose,Fruit,each,Morrisons,1.67,2026-01-24,Loose lemons per lemon equivalent
+Lemons Loose,Fruit,each,Aldi,1.54,2026-01-24,Loose lemons per lemon equivalent
+Lemons Loose,Fruit,each,Lidl,1.54,2026-01-24,Loose lemons per lemon equivalent
+Lemons Loose,Fruit,each,Ocado,2.02,2026-01-24,Loose lemons per lemon equivalent
+Avocado Loose,Fruit,each,Tesco,1.47,2026-01-24,Hass avocado equivalent
+Avocado Loose,Fruit,each,Sainsburys,1.54,2026-01-24,Hass avocado equivalent
+Avocado Loose,Fruit,each,Waitrose,1.7,2026-01-24,Hass avocado equivalent
+Avocado Loose,Fruit,each,Asda,1.39,2026-01-24,Hass avocado equivalent
+Avocado Loose,Fruit,each,Morrisons,1.51,2026-01-24,Hass avocado equivalent
+Avocado Loose,Fruit,each,Aldi,1.37,2026-01-24,Hass avocado equivalent
+Avocado Loose,Fruit,each,Lidl,1.38,2026-01-24,Hass avocado equivalent
+Avocado Loose,Fruit,each,Ocado,1.69,2026-01-24,Hass avocado equivalent
+Potatoes White 2kg,Vegetables,1kg,Tesco,3.86,2026-01-24,2kg bag; priced per kg
+Potatoes White 2kg,Vegetables,1kg,Sainsburys,4.12,2026-01-24,2kg bag; priced per kg
+Potatoes White 2kg,Vegetables,1kg,Waitrose,4.75,2026-01-24,2kg bag; priced per kg
+Potatoes White 2kg,Vegetables,1kg,Asda,3.7,2026-01-24,2kg bag; priced per kg
+Potatoes White 2kg,Vegetables,1kg,Morrisons,4.01,2026-01-24,2kg bag; priced per kg
+Potatoes White 2kg,Vegetables,1kg,Aldi,3.56,2026-01-24,2kg bag; priced per kg
+Potatoes White 2kg,Vegetables,1kg,Lidl,3.72,2026-01-24,2kg bag; priced per kg
+Potatoes White 2kg,Vegetables,1kg,Ocado,4.59,2026-01-24,2kg bag; priced per kg
+Potatoes Organic 2kg,Vegetables,1kg,Tesco,1.32,2026-01-24,Organic 2kg bag; priced per kg
+Potatoes Organic 2kg,Vegetables,1kg,Sainsburys,1.2,2026-01-24,Organic 2kg bag; priced per kg
+Potatoes Organic 2kg,Vegetables,1kg,Waitrose,1.43,2026-01-24,Organic 2kg bag; priced per kg
+Potatoes Organic 2kg,Vegetables,1kg,Asda,1.2,2026-01-24,Organic 2kg bag; priced per kg
+Potatoes Organic 2kg,Vegetables,1kg,Morrisons,1.28,2026-01-24,Organic 2kg bag; priced per kg
+Potatoes Organic 2kg,Vegetables,1kg,Aldi,1.15,2026-01-24,Organic 2kg bag; priced per kg
+Potatoes Organic 2kg,Vegetables,1kg,Lidl,1.16,2026-01-24,Organic 2kg bag; priced per kg
+Potatoes Organic 2kg,Vegetables,1kg,Ocado,1.51,2026-01-24,Organic 2kg bag; priced per kg
+Carrots 1kg,Vegetables,1kg,Tesco,2.13,2026-01-24,1kg bag
+Carrots 1kg,Vegetables,1kg,Sainsburys,1.9,2026-01-24,1kg bag
+Carrots 1kg,Vegetables,1kg,Waitrose,2.28,2026-01-24,1kg bag
+Carrots 1kg,Vegetables,1kg,Asda,1.97,2026-01-24,1kg bag
+Carrots 1kg,Vegetables,1kg,Morrisons,2.04,2026-01-24,1kg bag
+Carrots 1kg,Vegetables,1kg,Aldi,1.83,2026-01-24,1kg bag
+Carrots 1kg,Vegetables,1kg,Lidl,1.8,2026-01-24,1kg bag
+Carrots 1kg,Vegetables,1kg,Ocado,2.27,2026-01-24,1kg bag
+Onions Brown 1kg,Vegetables,1kg,Tesco,4.3,2026-01-24,1kg bag
+Onions Brown 1kg,Vegetables,1kg,Sainsburys,4.48,2026-01-24,1kg bag
+Onions Brown 1kg,Vegetables,1kg,Waitrose,4.82,2026-01-24,1kg bag
+Onions Brown 1kg,Vegetables,1kg,Asda,3.98,2026-01-24,1kg bag
+Onions Brown 1kg,Vegetables,1kg,Morrisons,4.27,2026-01-24,1kg bag
+Onions Brown 1kg,Vegetables,1kg,Aldi,3.85,2026-01-24,1kg bag
+Onions Brown 1kg,Vegetables,1kg,Lidl,3.98,2026-01-24,1kg bag
+Onions Brown 1kg,Vegetables,1kg,Ocado,4.9,2026-01-24,1kg bag
+Tomatoes Salad 400g,Vegetables,100g,Tesco,0.93,2026-01-24,400g pack; priced per 100g
+Tomatoes Salad 400g,Vegetables,100g,Sainsburys,0.98,2026-01-24,400g pack; priced per 100g
+Tomatoes Salad 400g,Vegetables,100g,Waitrose,1.04,2026-01-24,400g pack; priced per 100g
+Tomatoes Salad 400g,Vegetables,100g,Asda,0.94,2026-01-24,400g pack; priced per 100g
+Tomatoes Salad 400g,Vegetables,100g,Morrisons,0.99,2026-01-24,400g pack; priced per 100g
+Tomatoes Salad 400g,Vegetables,100g,Aldi,0.84,2026-01-24,400g pack; priced per 100g
+Tomatoes Salad 400g,Vegetables,100g,Lidl,0.89,2026-01-24,400g pack; priced per 100g
+Tomatoes Salad 400g,Vegetables,100g,Ocado,1.06,2026-01-24,400g pack; priced per 100g
+Cucumber Each,Vegetables,each,Tesco,1.63,2026-01-24,Whole cucumber
+Cucumber Each,Vegetables,each,Sainsburys,1.67,2026-01-24,Whole cucumber
+Cucumber Each,Vegetables,each,Waitrose,1.79,2026-01-24,Whole cucumber
+Cucumber Each,Vegetables,each,Asda,1.58,2026-01-24,Whole cucumber
+Cucumber Each,Vegetables,each,Morrisons,1.58,2026-01-24,Whole cucumber
+Cucumber Each,Vegetables,each,Aldi,1.43,2026-01-24,Whole cucumber
+Cucumber Each,Vegetables,each,Lidl,1.45,2026-01-24,Whole cucumber
+Cucumber Each,Vegetables,each,Ocado,1.83,2026-01-24,Whole cucumber
+Broccoli Head,Vegetables,each,Tesco,0.4,2026-01-24,One head
+Broccoli Head,Vegetables,each,Sainsburys,0.41,2026-01-24,One head
+Broccoli Head,Vegetables,each,Waitrose,0.45,2026-01-24,One head
+Broccoli Head,Vegetables,each,Asda,0.4,2026-01-24,One head
+Broccoli Head,Vegetables,each,Morrisons,0.42,2026-01-24,One head
+Broccoli Head,Vegetables,each,Aldi,0.36,2026-01-24,One head
+Broccoli Head,Vegetables,each,Lidl,0.36,2026-01-24,One head
+Broccoli Head,Vegetables,each,Ocado,0.47,2026-01-24,One head
+Spinach Bag 200g,Vegetables,100g,Tesco,0.54,2026-01-24,200g bag; priced per 100g
+Spinach Bag 200g,Vegetables,100g,Sainsburys,0.53,2026-01-24,200g bag; priced per 100g
+Spinach Bag 200g,Vegetables,100g,Waitrose,0.57,2026-01-24,200g bag; priced per 100g
+Spinach Bag 200g,Vegetables,100g,Asda,0.51,2026-01-24,200g bag; priced per 100g
+Spinach Bag 200g,Vegetables,100g,Morrisons,0.55,2026-01-24,200g bag; priced per 100g
+Spinach Bag 200g,Vegetables,100g,Aldi,0.45,2026-01-24,200g bag; priced per 100g
+Spinach Bag 200g,Vegetables,100g,Lidl,0.49,2026-01-24,200g bag; priced per 100g
+Spinach Bag 200g,Vegetables,100g,Ocado,0.6,2026-01-24,200g bag; priced per 100g
+Mushrooms Closed Cup 300g,Vegetables,100g,Tesco,0.39,2026-01-24,300g pack; priced per 100g
+Mushrooms Closed Cup 300g,Vegetables,100g,Sainsburys,0.41,2026-01-24,300g pack; priced per 100g
+Mushrooms Closed Cup 300g,Vegetables,100g,Waitrose,0.43,2026-01-24,300g pack; priced per 100g
+Mushrooms Closed Cup 300g,Vegetables,100g,Asda,0.39,2026-01-24,300g pack; priced per 100g
+Mushrooms Closed Cup 300g,Vegetables,100g,Morrisons,0.42,2026-01-24,300g pack; priced per 100g
+Mushrooms Closed Cup 300g,Vegetables,100g,Aldi,0.37,2026-01-24,300g pack; priced per 100g
+Mushrooms Closed Cup 300g,Vegetables,100g,Lidl,0.36,2026-01-24,300g pack; priced per 100g
+Mushrooms Closed Cup 300g,Vegetables,100g,Ocado,0.44,2026-01-24,300g pack; priced per 100g
+Peppers Mixed 3 pack,Vegetables,pack,Tesco,3.62,2026-01-24,3-pack mixed peppers
+Peppers Mixed 3 pack,Vegetables,pack,Sainsburys,3.66,2026-01-24,3-pack mixed peppers
+Peppers Mixed 3 pack,Vegetables,pack,Waitrose,4.5,2026-01-24,3-pack mixed peppers
+Peppers Mixed 3 pack,Vegetables,pack,Asda,3.62,2026-01-24,3-pack mixed peppers
+Peppers Mixed 3 pack,Vegetables,pack,Morrisons,3.68,2026-01-24,3-pack mixed peppers
+Peppers Mixed 3 pack,Vegetables,pack,Aldi,3.33,2026-01-24,3-pack mixed peppers
+Peppers Mixed 3 pack,Vegetables,pack,Lidl,3.39,2026-01-24,3-pack mixed peppers
+Peppers Mixed 3 pack,Vegetables,pack,Ocado,4.32,2026-01-24,3-pack mixed peppers
+Milk Semi-Skimmed 2L,Dairy,1L,Tesco,1.68,2026-01-24,2L bottle; priced per litre
+Milk Semi-Skimmed 2L,Dairy,1L,Sainsburys,1.89,2026-01-24,2L bottle; priced per litre
+Milk Semi-Skimmed 2L,Dairy,1L,Waitrose,1.95,2026-01-24,2L bottle; priced per litre
+Milk Semi-Skimmed 2L,Dairy,1L,Asda,1.66,2026-01-24,2L bottle; priced per litre
+Milk Semi-Skimmed 2L,Dairy,1L,Morrisons,1.79,2026-01-24,2L bottle; priced per litre
+Milk Semi-Skimmed 2L,Dairy,1L,Aldi,1.68,2026-01-24,2L bottle; priced per litre
+Milk Semi-Skimmed 2L,Dairy,1L,Lidl,1.69,2026-01-24,2L bottle; priced per litre
+Milk Semi-Skimmed 2L,Dairy,1L,Ocado,2.0,2026-01-24,2L bottle; priced per litre
+Milk Whole 2L,Dairy,1L,Tesco,0.74,2026-01-24,2L bottle; priced per litre
+Milk Whole 2L,Dairy,1L,Sainsburys,0.76,2026-01-24,2L bottle; priced per litre
+Milk Whole 2L,Dairy,1L,Waitrose,0.85,2026-01-24,2L bottle; priced per litre
+Milk Whole 2L,Dairy,1L,Asda,0.71,2026-01-24,2L bottle; priced per litre
+Milk Whole 2L,Dairy,1L,Morrisons,0.72,2026-01-24,2L bottle; priced per litre
+Milk Whole 2L,Dairy,1L,Aldi,0.65,2026-01-24,2L bottle; priced per litre
+Milk Whole 2L,Dairy,1L,Lidl,0.68,2026-01-24,2L bottle; priced per litre
+Milk Whole 2L,Dairy,1L,Ocado,0.82,2026-01-24,2L bottle; priced per litre
+Milk Oat 1L,Dairy Alternatives,1L,Tesco,1.25,2026-01-24,Shelf-stable oat drink
+Milk Oat 1L,Dairy Alternatives,1L,Sainsburys,1.24,2026-01-24,Shelf-stable oat drink
+Milk Oat 1L,Dairy Alternatives,1L,Waitrose,1.33,2026-01-24,Shelf-stable oat drink
+Milk Oat 1L,Dairy Alternatives,1L,Asda,1.16,2026-01-24,Shelf-stable oat drink
+Milk Oat 1L,Dairy Alternatives,1L,Morrisons,1.2,2026-01-24,Shelf-stable oat drink
+Milk Oat 1L,Dairy Alternatives,1L,Aldi,1.1,2026-01-24,Shelf-stable oat drink
+Milk Oat 1L,Dairy Alternatives,1L,Lidl,1.15,2026-01-24,Shelf-stable oat drink
+Milk Oat 1L,Dairy Alternatives,1L,Ocado,1.34,2026-01-24,Shelf-stable oat drink
+Milk Almond 1L,Dairy Alternatives,1L,Tesco,1.91,2026-01-24,Shelf-stable almond drink
+Milk Almond 1L,Dairy Alternatives,1L,Sainsburys,2.1,2026-01-24,Shelf-stable almond drink
+Milk Almond 1L,Dairy Alternatives,1L,Waitrose,2.29,2026-01-24,Shelf-stable almond drink
+Milk Almond 1L,Dairy Alternatives,1L,Asda,1.97,2026-01-24,Shelf-stable almond drink
+Milk Almond 1L,Dairy Alternatives,1L,Morrisons,2.07,2026-01-24,Shelf-stable almond drink
+Milk Almond 1L,Dairy Alternatives,1L,Aldi,1.85,2026-01-24,Shelf-stable almond drink
+Milk Almond 1L,Dairy Alternatives,1L,Lidl,1.93,2026-01-24,Shelf-stable almond drink
+Milk Almond 1L,Dairy Alternatives,1L,Ocado,2.28,2026-01-24,Shelf-stable almond drink
+Butter Salted 250g,Dairy,100g,Tesco,1.36,2026-01-24,250g pack; priced per 100g
+Butter Salted 250g,Dairy,100g,Sainsburys,1.37,2026-01-24,250g pack; priced per 100g
+Butter Salted 250g,Dairy,100g,Waitrose,1.5,2026-01-24,250g pack; priced per 100g
+Butter Salted 250g,Dairy,100g,Asda,1.34,2026-01-24,250g pack; priced per 100g
+Butter Salted 250g,Dairy,100g,Morrisons,1.4,2026-01-24,250g pack; priced per 100g
+Butter Salted 250g,Dairy,100g,Aldi,1.18,2026-01-24,250g pack; priced per 100g
+Butter Salted 250g,Dairy,100g,Lidl,1.22,2026-01-24,250g pack; priced per 100g
+Butter Salted 250g,Dairy,100g,Ocado,1.59,2026-01-24,250g pack; priced per 100g
+Butter Unsalted 250g,Dairy,100g,Tesco,0.98,2026-01-24,250g pack; priced per 100g
+Butter Unsalted 250g,Dairy,100g,Sainsburys,0.95,2026-01-24,250g pack; priced per 100g
+Butter Unsalted 250g,Dairy,100g,Waitrose,1.07,2026-01-24,250g pack; priced per 100g
+Butter Unsalted 250g,Dairy,100g,Asda,0.88,2026-01-24,250g pack; priced per 100g
+Butter Unsalted 250g,Dairy,100g,Morrisons,1.03,2026-01-24,250g pack; priced per 100g
+Butter Unsalted 250g,Dairy,100g,Aldi,0.88,2026-01-24,250g pack; priced per 100g
+Butter Unsalted 250g,Dairy,100g,Lidl,0.9,2026-01-24,250g pack; priced per 100g
+Butter Unsalted 250g,Dairy,100g,Ocado,1.12,2026-01-24,250g pack; priced per 100g
+Cheddar Mature 400g,Dairy,100g,Tesco,0.66,2026-01-24,400g block; priced per 100g
+Cheddar Mature 400g,Dairy,100g,Sainsburys,0.67,2026-01-24,400g block; priced per 100g
+Cheddar Mature 400g,Dairy,100g,Waitrose,0.72,2026-01-24,400g block; priced per 100g
+Cheddar Mature 400g,Dairy,100g,Asda,0.63,2026-01-24,400g block; priced per 100g
+Cheddar Mature 400g,Dairy,100g,Morrisons,0.65,2026-01-24,400g block; priced per 100g
+Cheddar Mature 400g,Dairy,100g,Aldi,0.61,2026-01-24,400g block; priced per 100g
+Cheddar Mature 400g,Dairy,100g,Lidl,0.58,2026-01-24,400g block; priced per 100g
+Cheddar Mature 400g,Dairy,100g,Ocado,0.73,2026-01-24,400g block; priced per 100g
+Cheddar Extra Mature 400g,Dairy,100g,Tesco,0.33,2026-01-24,400g block; priced per 100g
+Cheddar Extra Mature 400g,Dairy,100g,Sainsburys,0.34,2026-01-24,400g block; priced per 100g
+Cheddar Extra Mature 400g,Dairy,100g,Waitrose,0.37,2026-01-24,400g block; priced per 100g
+Cheddar Extra Mature 400g,Dairy,100g,Asda,0.3,2026-01-24,400g block; priced per 100g
+Cheddar Extra Mature 400g,Dairy,100g,Morrisons,0.32,2026-01-24,400g block; priced per 100g
+Cheddar Extra Mature 400g,Dairy,100g,Aldi,0.29,2026-01-24,400g block; priced per 100g
+Cheddar Extra Mature 400g,Dairy,100g,Lidl,0.31,2026-01-24,400g block; priced per 100g
+Cheddar Extra Mature 400g,Dairy,100g,Ocado,0.38,2026-01-24,400g block; priced per 100g
+Mozzarella 125g,Dairy,100g,Tesco,0.65,2026-01-24,125g ball; priced per 100g
+Mozzarella 125g,Dairy,100g,Sainsburys,0.66,2026-01-24,125g ball; priced per 100g
+Mozzarella 125g,Dairy,100g,Waitrose,0.71,2026-01-24,125g ball; priced per 100g
+Mozzarella 125g,Dairy,100g,Asda,0.63,2026-01-24,125g ball; priced per 100g
+Mozzarella 125g,Dairy,100g,Morrisons,0.67,2026-01-24,125g ball; priced per 100g
+Mozzarella 125g,Dairy,100g,Aldi,0.59,2026-01-24,125g ball; priced per 100g
+Mozzarella 125g,Dairy,100g,Lidl,0.59,2026-01-24,125g ball; priced per 100g
+Mozzarella 125g,Dairy,100g,Ocado,0.76,2026-01-24,125g ball; priced per 100g
+Greek Yogurt 500g,Dairy,100g,Tesco,0.54,2026-01-24,500g tub; priced per 100g
+Greek Yogurt 500g,Dairy,100g,Sainsburys,0.58,2026-01-24,500g tub; priced per 100g
+Greek Yogurt 500g,Dairy,100g,Waitrose,0.61,2026-01-24,500g tub; priced per 100g
+Greek Yogurt 500g,Dairy,100g,Asda,0.52,2026-01-24,500g tub; priced per 100g
+Greek Yogurt 500g,Dairy,100g,Morrisons,0.57,2026-01-24,500g tub; priced per 100g
+Greek Yogurt 500g,Dairy,100g,Aldi,0.51,2026-01-24,500g tub; priced per 100g
+Greek Yogurt 500g,Dairy,100g,Lidl,0.54,2026-01-24,500g tub; priced per 100g
+Greek Yogurt 500g,Dairy,100g,Ocado,0.63,2026-01-24,500g tub; priced per 100g
+Yogurt Strawberry 4x125g,Dairy,100g,Tesco,1.1,2026-01-24,Multipack; priced per 100g
+Yogurt Strawberry 4x125g,Dairy,100g,Sainsburys,1.1,2026-01-24,Multipack; priced per 100g
+Yogurt Strawberry 4x125g,Dairy,100g,Waitrose,1.19,2026-01-24,Multipack; priced per 100g
+Yogurt Strawberry 4x125g,Dairy,100g,Asda,1.01,2026-01-24,Multipack; priced per 100g
+Yogurt Strawberry 4x125g,Dairy,100g,Morrisons,1.13,2026-01-24,Multipack; priced per 100g
+Yogurt Strawberry 4x125g,Dairy,100g,Aldi,0.98,2026-01-24,Multipack; priced per 100g
+Yogurt Strawberry 4x125g,Dairy,100g,Lidl,1.06,2026-01-24,Multipack; priced per 100g
+Yogurt Strawberry 4x125g,Dairy,100g,Ocado,1.33,2026-01-24,Multipack; priced per 100g
+Eggs 6 Free Range,Eggs,pack,Tesco,3.16,2026-01-24,6-pack free range
+Eggs 6 Free Range,Eggs,pack,Sainsburys,3.44,2026-01-24,6-pack free range
+Eggs 6 Free Range,Eggs,pack,Waitrose,3.66,2026-01-24,6-pack free range
+Eggs 6 Free Range,Eggs,pack,Asda,3.19,2026-01-24,6-pack free range
+Eggs 6 Free Range,Eggs,pack,Morrisons,3.2,2026-01-24,6-pack free range
+Eggs 6 Free Range,Eggs,pack,Aldi,3.01,2026-01-24,6-pack free range
+Eggs 6 Free Range,Eggs,pack,Lidl,2.88,2026-01-24,6-pack free range
+Eggs 6 Free Range,Eggs,pack,Ocado,3.76,2026-01-24,6-pack free range
+Eggs 6 Organic,Eggs,pack,Tesco,2.83,2026-01-24,6-pack organic
+Eggs 6 Organic,Eggs,pack,Sainsburys,2.94,2026-01-24,6-pack organic
+Eggs 6 Organic,Eggs,pack,Waitrose,3.33,2026-01-24,6-pack organic
+Eggs 6 Organic,Eggs,pack,Asda,2.8,2026-01-24,6-pack organic
+Eggs 6 Organic,Eggs,pack,Morrisons,2.89,2026-01-24,6-pack organic
+Eggs 6 Organic,Eggs,pack,Aldi,2.7,2026-01-24,6-pack organic
+Eggs 6 Organic,Eggs,pack,Lidl,2.73,2026-01-24,6-pack organic
+Eggs 6 Organic,Eggs,pack,Ocado,3.19,2026-01-24,6-pack organic
+Eggs 12 Free Range,Eggs,pack,Tesco,3.71,2026-01-24,12-pack free range
+Eggs 12 Free Range,Eggs,pack,Sainsburys,3.84,2026-01-24,12-pack free range
+Eggs 12 Free Range,Eggs,pack,Waitrose,4.07,2026-01-24,12-pack free range
+Eggs 12 Free Range,Eggs,pack,Asda,3.58,2026-01-24,12-pack free range
+Eggs 12 Free Range,Eggs,pack,Morrisons,3.54,2026-01-24,12-pack free range
+Eggs 12 Free Range,Eggs,pack,Aldi,3.5,2026-01-24,12-pack free range
+Eggs 12 Free Range,Eggs,pack,Lidl,3.37,2026-01-24,12-pack free range
+Eggs 12 Free Range,Eggs,pack,Ocado,4.22,2026-01-24,12-pack free range
+Eggs 12 Organic,Eggs,pack,Tesco,5.08,2026-01-24,12-pack organic
+Eggs 12 Organic,Eggs,pack,Sainsburys,5.03,2026-01-24,12-pack organic
+Eggs 12 Organic,Eggs,pack,Waitrose,5.7,2026-01-24,12-pack organic
+Eggs 12 Organic,Eggs,pack,Asda,4.61,2026-01-24,12-pack organic
+Eggs 12 Organic,Eggs,pack,Morrisons,4.87,2026-01-24,12-pack organic
+Eggs 12 Organic,Eggs,pack,Aldi,4.33,2026-01-24,12-pack organic
+Eggs 12 Organic,Eggs,pack,Lidl,4.54,2026-01-24,12-pack organic
+Eggs 12 Organic,Eggs,pack,Ocado,5.87,2026-01-24,12-pack organic
+Cream Double 300ml,Dairy,100ml,Tesco,0.54,2026-01-24,300ml pot; priced per 100ml
+Cream Double 300ml,Dairy,100ml,Sainsburys,0.56,2026-01-24,300ml pot; priced per 100ml
+Cream Double 300ml,Dairy,100ml,Waitrose,0.59,2026-01-24,300ml pot; priced per 100ml
+Cream Double 300ml,Dairy,100ml,Asda,0.5,2026-01-24,300ml pot; priced per 100ml
+Cream Double 300ml,Dairy,100ml,Morrisons,0.53,2026-01-24,300ml pot; priced per 100ml
+Cream Double 300ml,Dairy,100ml,Aldi,0.5,2026-01-24,300ml pot; priced per 100ml
+Cream Double 300ml,Dairy,100ml,Lidl,0.5,2026-01-24,300ml pot; priced per 100ml
+Cream Double 300ml,Dairy,100ml,Ocado,0.62,2026-01-24,300ml pot; priced per 100ml
+Crème Fraîche 200g,Dairy,100g,Tesco,0.96,2026-01-24,200g tub; priced per 100g
+Crème Fraîche 200g,Dairy,100g,Sainsburys,0.97,2026-01-24,200g tub; priced per 100g
+Crème Fraîche 200g,Dairy,100g,Waitrose,1.08,2026-01-24,200g tub; priced per 100g
+Crème Fraîche 200g,Dairy,100g,Asda,0.95,2026-01-24,200g tub; priced per 100g
+Crème Fraîche 200g,Dairy,100g,Morrisons,0.94,2026-01-24,200g tub; priced per 100g
+Crème Fraîche 200g,Dairy,100g,Aldi,0.87,2026-01-24,200g tub; priced per 100g
+Crème Fraîche 200g,Dairy,100g,Lidl,0.92,2026-01-24,200g tub; priced per 100g
+Crème Fraîche 200g,Dairy,100g,Ocado,1.1,2026-01-24,200g tub; priced per 100g
+Chicken Breast 600g,Meat,100g,Tesco,0.87,2026-01-24,600g pack; priced per 100g
+Chicken Breast 600g,Meat,100g,Sainsburys,0.86,2026-01-24,600g pack; priced per 100g
+Chicken Breast 600g,Meat,100g,Waitrose,1.03,2026-01-24,600g pack; priced per 100g
+Chicken Breast 600g,Meat,100g,Asda,0.77,2026-01-24,600g pack; priced per 100g
+Chicken Breast 600g,Meat,100g,Morrisons,0.83,2026-01-24,600g pack; priced per 100g
+Chicken Breast 600g,Meat,100g,Aldi,0.76,2026-01-24,600g pack; priced per 100g
+Chicken Breast 600g,Meat,100g,Lidl,0.83,2026-01-24,600g pack; priced per 100g
+Chicken Breast 600g,Meat,100g,Ocado,1.0,2026-01-24,600g pack; priced per 100g
+Chicken Thighs 1kg,Meat,1kg,Tesco,8.21,2026-01-24,1kg pack
+Chicken Thighs 1kg,Meat,1kg,Sainsburys,8.2,2026-01-24,1kg pack
+Chicken Thighs 1kg,Meat,1kg,Waitrose,9.54,2026-01-24,1kg pack
+Chicken Thighs 1kg,Meat,1kg,Asda,8.06,2026-01-24,1kg pack
+Chicken Thighs 1kg,Meat,1kg,Morrisons,8.19,2026-01-24,1kg pack
+Chicken Thighs 1kg,Meat,1kg,Aldi,7.28,2026-01-24,1kg pack
+Chicken Thighs 1kg,Meat,1kg,Lidl,7.45,2026-01-24,1kg pack
+Chicken Thighs 1kg,Meat,1kg,Ocado,9.67,2026-01-24,1kg pack
+Beef Mince 5% Fat 500g,Meat,100g,Tesco,1.34,2026-01-24,500g pack; priced per 100g
+Beef Mince 5% Fat 500g,Meat,100g,Sainsburys,1.37,2026-01-24,500g pack; priced per 100g
+Beef Mince 5% Fat 500g,Meat,100g,Waitrose,1.51,2026-01-24,500g pack; priced per 100g
+Beef Mince 5% Fat 500g,Meat,100g,Asda,1.22,2026-01-24,500g pack; priced per 100g
+Beef Mince 5% Fat 500g,Meat,100g,Morrisons,1.34,2026-01-24,500g pack; priced per 100g
+Beef Mince 5% Fat 500g,Meat,100g,Aldi,1.18,2026-01-24,500g pack; priced per 100g
+Beef Mince 5% Fat 500g,Meat,100g,Lidl,1.24,2026-01-24,500g pack; priced per 100g
+Beef Mince 5% Fat 500g,Meat,100g,Ocado,1.56,2026-01-24,500g pack; priced per 100g
+Beef Mince 12% Fat 500g,Meat,100g,Tesco,1.02,2026-01-24,500g pack; priced per 100g
+Beef Mince 12% Fat 500g,Meat,100g,Sainsburys,1.04,2026-01-24,500g pack; priced per 100g
+Beef Mince 12% Fat 500g,Meat,100g,Waitrose,1.22,2026-01-24,500g pack; priced per 100g
+Beef Mince 12% Fat 500g,Meat,100g,Asda,1.02,2026-01-24,500g pack; priced per 100g
+Beef Mince 12% Fat 500g,Meat,100g,Morrisons,1.03,2026-01-24,500g pack; priced per 100g
+Beef Mince 12% Fat 500g,Meat,100g,Aldi,0.87,2026-01-24,500g pack; priced per 100g
+Beef Mince 12% Fat 500g,Meat,100g,Lidl,0.97,2026-01-24,500g pack; priced per 100g
+Beef Mince 12% Fat 500g,Meat,100g,Ocado,1.23,2026-01-24,500g pack; priced per 100g
+Pork Sausages 8 pack,Meat,pack,Tesco,2.31,2026-01-24,8 sausages
+Pork Sausages 8 pack,Meat,pack,Sainsburys,2.26,2026-01-24,8 sausages
+Pork Sausages 8 pack,Meat,pack,Waitrose,2.5,2026-01-24,8 sausages
+Pork Sausages 8 pack,Meat,pack,Asda,2.14,2026-01-24,8 sausages
+Pork Sausages 8 pack,Meat,pack,Morrisons,2.32,2026-01-24,8 sausages
+Pork Sausages 8 pack,Meat,pack,Aldi,1.99,2026-01-24,8 sausages
+Pork Sausages 8 pack,Meat,pack,Lidl,2.08,2026-01-24,8 sausages
+Pork Sausages 8 pack,Meat,pack,Ocado,2.52,2026-01-24,8 sausages
+Bacon Smoked 300g,Meat,100g,Tesco,2.52,2026-01-24,300g pack; priced per 100g
+Bacon Smoked 300g,Meat,100g,Sainsburys,2.45,2026-01-24,300g pack; priced per 100g
+Bacon Smoked 300g,Meat,100g,Waitrose,2.88,2026-01-24,300g pack; priced per 100g
+Bacon Smoked 300g,Meat,100g,Asda,2.39,2026-01-24,300g pack; priced per 100g
+Bacon Smoked 300g,Meat,100g,Morrisons,2.51,2026-01-24,300g pack; priced per 100g
+Bacon Smoked 300g,Meat,100g,Aldi,2.34,2026-01-24,300g pack; priced per 100g
+Bacon Smoked 300g,Meat,100g,Lidl,2.4,2026-01-24,300g pack; priced per 100g
+Bacon Smoked 300g,Meat,100g,Ocado,2.75,2026-01-24,300g pack; priced per 100g
+Salmon Fillets 2 pack,Fish,pack,Tesco,10.5,2026-01-24,2 fillets
+Salmon Fillets 2 pack,Fish,pack,Sainsburys,10.68,2026-01-24,2 fillets
+Salmon Fillets 2 pack,Fish,pack,Waitrose,11.52,2026-01-24,2 fillets
+Salmon Fillets 2 pack,Fish,pack,Asda,10.31,2026-01-24,2 fillets
+Salmon Fillets 2 pack,Fish,pack,Morrisons,10.36,2026-01-24,2 fillets
+Salmon Fillets 2 pack,Fish,pack,Aldi,9.74,2026-01-24,2 fillets
+Salmon Fillets 2 pack,Fish,pack,Lidl,9.31,2026-01-24,2 fillets
+Salmon Fillets 2 pack,Fish,pack,Ocado,11.52,2026-01-24,2 fillets
+Tuna Chunks 4x145g,Fish,100g,Tesco,1.2,2026-01-24,Multipack; drained equivalent per 100g
+Tuna Chunks 4x145g,Fish,100g,Sainsburys,1.27,2026-01-24,Multipack; drained equivalent per 100g
+Tuna Chunks 4x145g,Fish,100g,Waitrose,1.34,2026-01-24,Multipack; drained equivalent per 100g
+Tuna Chunks 4x145g,Fish,100g,Asda,1.15,2026-01-24,Multipack; drained equivalent per 100g
+Tuna Chunks 4x145g,Fish,100g,Morrisons,1.15,2026-01-24,Multipack; drained equivalent per 100g
+Tuna Chunks 4x145g,Fish,100g,Aldi,1.02,2026-01-24,Multipack; drained equivalent per 100g
+Tuna Chunks 4x145g,Fish,100g,Lidl,1.07,2026-01-24,Multipack; drained equivalent per 100g
+Tuna Chunks 4x145g,Fish,100g,Ocado,1.4,2026-01-24,Multipack; drained equivalent per 100g
+Bread White Loaf 800g,Bakery,each,Tesco,1.01,2026-01-24,Standard 800g loaf
+Bread White Loaf 800g,Bakery,each,Sainsburys,1.08,2026-01-24,Standard 800g loaf
+Bread White Loaf 800g,Bakery,each,Waitrose,1.14,2026-01-24,Standard 800g loaf
+Bread White Loaf 800g,Bakery,each,Asda,1.04,2026-01-24,Standard 800g loaf
+Bread White Loaf 800g,Bakery,each,Morrisons,1.1,2026-01-24,Standard 800g loaf
+Bread White Loaf 800g,Bakery,each,Aldi,0.94,2026-01-24,Standard 800g loaf
+Bread White Loaf 800g,Bakery,each,Lidl,0.98,2026-01-24,Standard 800g loaf
+Bread White Loaf 800g,Bakery,each,Ocado,1.29,2026-01-24,Standard 800g loaf
+Bread Wholemeal Loaf 800g,Bakery,each,Tesco,0.84,2026-01-24,Standard 800g loaf
+Bread Wholemeal Loaf 800g,Bakery,each,Sainsburys,0.83,2026-01-24,Standard 800g loaf
+Bread Wholemeal Loaf 800g,Bakery,each,Waitrose,0.92,2026-01-24,Standard 800g loaf
+Bread Wholemeal Loaf 800g,Bakery,each,Asda,0.76,2026-01-24,Standard 800g loaf
+Bread Wholemeal Loaf 800g,Bakery,each,Morrisons,0.87,2026-01-24,Standard 800g loaf
+Bread Wholemeal Loaf 800g,Bakery,each,Aldi,0.75,2026-01-24,Standard 800g loaf
+Bread Wholemeal Loaf 800g,Bakery,each,Lidl,0.8,2026-01-24,Standard 800g loaf
+Bread Wholemeal Loaf 800g,Bakery,each,Ocado,1.0,2026-01-24,Standard 800g loaf
+Bagels Plain 5 pack,Bakery,pack,Tesco,2.47,2026-01-24,5 bagels
+Bagels Plain 5 pack,Bakery,pack,Sainsburys,2.55,2026-01-24,5 bagels
+Bagels Plain 5 pack,Bakery,pack,Waitrose,2.94,2026-01-24,5 bagels
+Bagels Plain 5 pack,Bakery,pack,Asda,2.45,2026-01-24,5 bagels
+Bagels Plain 5 pack,Bakery,pack,Morrisons,2.56,2026-01-24,5 bagels
+Bagels Plain 5 pack,Bakery,pack,Aldi,2.2,2026-01-24,5 bagels
+Bagels Plain 5 pack,Bakery,pack,Lidl,2.4,2026-01-24,5 bagels
+Bagels Plain 5 pack,Bakery,pack,Ocado,2.84,2026-01-24,5 bagels
+Wraps Tortilla 8 pack,Bakery,pack,Tesco,3.51,2026-01-24,8 wraps
+Wraps Tortilla 8 pack,Bakery,pack,Sainsburys,3.81,2026-01-24,8 wraps
+Wraps Tortilla 8 pack,Bakery,pack,Waitrose,4.35,2026-01-24,8 wraps
+Wraps Tortilla 8 pack,Bakery,pack,Asda,3.88,2026-01-24,8 wraps
+Wraps Tortilla 8 pack,Bakery,pack,Morrisons,3.76,2026-01-24,8 wraps
+Wraps Tortilla 8 pack,Bakery,pack,Aldi,3.32,2026-01-24,8 wraps
+Wraps Tortilla 8 pack,Bakery,pack,Lidl,3.72,2026-01-24,8 wraps
+Wraps Tortilla 8 pack,Bakery,pack,Ocado,4.39,2026-01-24,8 wraps
+Croissants 6 pack,Bakery,pack,Tesco,2.41,2026-01-24,6 croissants
+Croissants 6 pack,Bakery,pack,Sainsburys,2.42,2026-01-24,6 croissants
+Croissants 6 pack,Bakery,pack,Waitrose,2.68,2026-01-24,6 croissants
+Croissants 6 pack,Bakery,pack,Asda,2.46,2026-01-24,6 croissants
+Croissants 6 pack,Bakery,pack,Morrisons,2.43,2026-01-24,6 croissants
+Croissants 6 pack,Bakery,pack,Aldi,2.2,2026-01-24,6 croissants
+Croissants 6 pack,Bakery,pack,Lidl,2.22,2026-01-24,6 croissants
+Croissants 6 pack,Bakery,pack,Ocado,2.95,2026-01-24,6 croissants
+Pasta Spaghetti 500g,Pantry,100g,Tesco,1.44,2026-01-24,500g bag; priced per 100g
+Pasta Spaghetti 500g,Pantry,100g,Sainsburys,1.54,2026-01-24,500g bag; priced per 100g
+Pasta Spaghetti 500g,Pantry,100g,Waitrose,1.69,2026-01-24,500g bag; priced per 100g
+Pasta Spaghetti 500g,Pantry,100g,Asda,1.43,2026-01-24,500g bag; priced per 100g
+Pasta Spaghetti 500g,Pantry,100g,Morrisons,1.44,2026-01-24,500g bag; priced per 100g
+Pasta Spaghetti 500g,Pantry,100g,Aldi,1.38,2026-01-24,500g bag; priced per 100g
+Pasta Spaghetti 500g,Pantry,100g,Lidl,1.43,2026-01-24,500g bag; priced per 100g
+Pasta Spaghetti 500g,Pantry,100g,Ocado,1.7,2026-01-24,500g bag; priced per 100g
+Pasta Penne 500g,Pantry,100g,Tesco,0.55,2026-01-24,500g bag; priced per 100g
+Pasta Penne 500g,Pantry,100g,Sainsburys,0.56,2026-01-24,500g bag; priced per 100g
+Pasta Penne 500g,Pantry,100g,Waitrose,0.65,2026-01-24,500g bag; priced per 100g
+Pasta Penne 500g,Pantry,100g,Asda,0.54,2026-01-24,500g bag; priced per 100g
+Pasta Penne 500g,Pantry,100g,Morrisons,0.57,2026-01-24,500g bag; priced per 100g
+Pasta Penne 500g,Pantry,100g,Aldi,0.52,2026-01-24,500g bag; priced per 100g
+Pasta Penne 500g,Pantry,100g,Lidl,0.5,2026-01-24,500g bag; priced per 100g
+Pasta Penne 500g,Pantry,100g,Ocado,0.67,2026-01-24,500g bag; priced per 100g
+Rice Basmati 1kg,Pantry,1kg,Tesco,3.99,2026-01-24,1kg bag
+Rice Basmati 1kg,Pantry,1kg,Sainsburys,4.08,2026-01-24,1kg bag
+Rice Basmati 1kg,Pantry,1kg,Waitrose,4.55,2026-01-24,1kg bag
+Rice Basmati 1kg,Pantry,1kg,Asda,3.95,2026-01-24,1kg bag
+Rice Basmati 1kg,Pantry,1kg,Morrisons,4.01,2026-01-24,1kg bag
+Rice Basmati 1kg,Pantry,1kg,Aldi,3.56,2026-01-24,1kg bag
+Rice Basmati 1kg,Pantry,1kg,Lidl,3.82,2026-01-24,1kg bag
+Rice Basmati 1kg,Pantry,1kg,Ocado,4.54,2026-01-24,1kg bag
+Rice Jasmine 1kg,Pantry,1kg,Tesco,7.1,2026-01-24,1kg bag
+Rice Jasmine 1kg,Pantry,1kg,Sainsburys,7.12,2026-01-24,1kg bag
+Rice Jasmine 1kg,Pantry,1kg,Waitrose,8.27,2026-01-24,1kg bag
+Rice Jasmine 1kg,Pantry,1kg,Asda,6.82,2026-01-24,1kg bag
+Rice Jasmine 1kg,Pantry,1kg,Morrisons,7.21,2026-01-24,1kg bag
+Rice Jasmine 1kg,Pantry,1kg,Aldi,6.76,2026-01-24,1kg bag
+Rice Jasmine 1kg,Pantry,1kg,Lidl,6.75,2026-01-24,1kg bag
+Rice Jasmine 1kg,Pantry,1kg,Ocado,8.67,2026-01-24,1kg bag
+Flour Plain 1.5kg,Pantry,1kg,Tesco,3.04,2026-01-24,1.5kg bag; priced per kg
+Flour Plain 1.5kg,Pantry,1kg,Sainsburys,3.07,2026-01-24,1.5kg bag; priced per kg
+Flour Plain 1.5kg,Pantry,1kg,Waitrose,3.41,2026-01-24,1.5kg bag; priced per kg
+Flour Plain 1.5kg,Pantry,1kg,Asda,2.88,2026-01-24,1.5kg bag; priced per kg
+Flour Plain 1.5kg,Pantry,1kg,Morrisons,3.11,2026-01-24,1.5kg bag; priced per kg
+Flour Plain 1.5kg,Pantry,1kg,Aldi,2.78,2026-01-24,1.5kg bag; priced per kg
+Flour Plain 1.5kg,Pantry,1kg,Lidl,2.77,2026-01-24,1.5kg bag; priced per kg
+Flour Plain 1.5kg,Pantry,1kg,Ocado,3.59,2026-01-24,1.5kg bag; priced per kg
+Sugar Granulated 1kg,Pantry,1kg,Tesco,4.57,2026-01-24,1kg bag
+Sugar Granulated 1kg,Pantry,1kg,Sainsburys,4.63,2026-01-24,1kg bag
+Sugar Granulated 1kg,Pantry,1kg,Waitrose,4.96,2026-01-24,1kg bag
+Sugar Granulated 1kg,Pantry,1kg,Asda,4.48,2026-01-24,1kg bag
+Sugar Granulated 1kg,Pantry,1kg,Morrisons,4.63,2026-01-24,1kg bag
+Sugar Granulated 1kg,Pantry,1kg,Aldi,4.2,2026-01-24,1kg bag
+Sugar Granulated 1kg,Pantry,1kg,Lidl,4.18,2026-01-24,1kg bag
+Sugar Granulated 1kg,Pantry,1kg,Ocado,5.15,2026-01-24,1kg bag
+Salt Table 750g,Pantry,100g,Tesco,0.38,2026-01-24,750g tub; priced per 100g
+Salt Table 750g,Pantry,100g,Sainsburys,0.4,2026-01-24,750g tub; priced per 100g
+Salt Table 750g,Pantry,100g,Waitrose,0.44,2026-01-24,750g tub; priced per 100g
+Salt Table 750g,Pantry,100g,Asda,0.37,2026-01-24,750g tub; priced per 100g
+Salt Table 750g,Pantry,100g,Morrisons,0.39,2026-01-24,750g tub; priced per 100g
+Salt Table 750g,Pantry,100g,Aldi,0.36,2026-01-24,750g tub; priced per 100g
+Salt Table 750g,Pantry,100g,Lidl,0.36,2026-01-24,750g tub; priced per 100g
+Salt Table 750g,Pantry,100g,Ocado,0.44,2026-01-24,750g tub; priced per 100g
+Olive Oil Extra Virgin 500ml,Pantry,100ml,Tesco,1.26,2026-01-24,500ml bottle; priced per 100ml
+Olive Oil Extra Virgin 500ml,Pantry,100ml,Sainsburys,1.3,2026-01-24,500ml bottle; priced per 100ml
+Olive Oil Extra Virgin 500ml,Pantry,100ml,Waitrose,1.44,2026-01-24,500ml bottle; priced per 100ml
+Olive Oil Extra Virgin 500ml,Pantry,100ml,Asda,1.19,2026-01-24,500ml bottle; priced per 100ml
+Olive Oil Extra Virgin 500ml,Pantry,100ml,Morrisons,1.24,2026-01-24,500ml bottle; priced per 100ml
+Olive Oil Extra Virgin 500ml,Pantry,100ml,Aldi,1.1,2026-01-24,500ml bottle; priced per 100ml
+Olive Oil Extra Virgin 500ml,Pantry,100ml,Lidl,1.18,2026-01-24,500ml bottle; priced per 100ml
+Olive Oil Extra Virgin 500ml,Pantry,100ml,Ocado,1.34,2026-01-24,500ml bottle; priced per 100ml
+Vegetable Oil 1L,Pantry,1L,Tesco,1.06,2026-01-24,1L bottle
+Vegetable Oil 1L,Pantry,1L,Sainsburys,1.09,2026-01-24,1L bottle
+Vegetable Oil 1L,Pantry,1L,Waitrose,1.26,2026-01-24,1L bottle
+Vegetable Oil 1L,Pantry,1L,Asda,1.04,2026-01-24,1L bottle
+Vegetable Oil 1L,Pantry,1L,Morrisons,1.05,2026-01-24,1L bottle
+Vegetable Oil 1L,Pantry,1L,Aldi,0.95,2026-01-24,1L bottle
+Vegetable Oil 1L,Pantry,1L,Lidl,0.98,2026-01-24,1L bottle
+Vegetable Oil 1L,Pantry,1L,Ocado,1.25,2026-01-24,1L bottle
+Vinegar White Wine 500ml,Pantry,100ml,Tesco,0.46,2026-01-24,500ml bottle; priced per 100ml
+Vinegar White Wine 500ml,Pantry,100ml,Sainsburys,0.47,2026-01-24,500ml bottle; priced per 100ml
+Vinegar White Wine 500ml,Pantry,100ml,Waitrose,0.52,2026-01-24,500ml bottle; priced per 100ml
+Vinegar White Wine 500ml,Pantry,100ml,Asda,0.45,2026-01-24,500ml bottle; priced per 100ml
+Vinegar White Wine 500ml,Pantry,100ml,Morrisons,0.48,2026-01-24,500ml bottle; priced per 100ml
+Vinegar White Wine 500ml,Pantry,100ml,Aldi,0.41,2026-01-24,500ml bottle; priced per 100ml
+Vinegar White Wine 500ml,Pantry,100ml,Lidl,0.43,2026-01-24,500ml bottle; priced per 100ml
+Vinegar White Wine 500ml,Pantry,100ml,Ocado,0.56,2026-01-24,500ml bottle; priced per 100ml
+Tomato Passata 500g,Pantry,100g,Tesco,0.83,2026-01-24,500g carton; priced per 100g
+Tomato Passata 500g,Pantry,100g,Sainsburys,0.83,2026-01-24,500g carton; priced per 100g
+Tomato Passata 500g,Pantry,100g,Waitrose,0.95,2026-01-24,500g carton; priced per 100g
+Tomato Passata 500g,Pantry,100g,Asda,0.77,2026-01-24,500g carton; priced per 100g
+Tomato Passata 500g,Pantry,100g,Morrisons,0.82,2026-01-24,500g carton; priced per 100g
+Tomato Passata 500g,Pantry,100g,Aldi,0.79,2026-01-24,500g carton; priced per 100g
+Tomato Passata 500g,Pantry,100g,Lidl,0.8,2026-01-24,500g carton; priced per 100g
+Tomato Passata 500g,Pantry,100g,Ocado,0.9,2026-01-24,500g carton; priced per 100g
+Chopped Tomatoes 4x400g,Pantry,100g,Tesco,1.57,2026-01-24,Multipack; priced per 100g
+Chopped Tomatoes 4x400g,Pantry,100g,Sainsburys,1.68,2026-01-24,Multipack; priced per 100g
+Chopped Tomatoes 4x400g,Pantry,100g,Waitrose,1.73,2026-01-24,Multipack; priced per 100g
+Chopped Tomatoes 4x400g,Pantry,100g,Asda,1.51,2026-01-24,Multipack; priced per 100g
+Chopped Tomatoes 4x400g,Pantry,100g,Morrisons,1.63,2026-01-24,Multipack; priced per 100g
+Chopped Tomatoes 4x400g,Pantry,100g,Aldi,1.4,2026-01-24,Multipack; priced per 100g
+Chopped Tomatoes 4x400g,Pantry,100g,Lidl,1.45,2026-01-24,Multipack; priced per 100g
+Chopped Tomatoes 4x400g,Pantry,100g,Ocado,1.78,2026-01-24,Multipack; priced per 100g
+Baked Beans 4x415g,Pantry,100g,Tesco,0.96,2026-01-24,Multipack; priced per 100g
+Baked Beans 4x415g,Pantry,100g,Sainsburys,1.06,2026-01-24,Multipack; priced per 100g
+Baked Beans 4x415g,Pantry,100g,Waitrose,1.15,2026-01-24,Multipack; priced per 100g
+Baked Beans 4x415g,Pantry,100g,Asda,1.01,2026-01-24,Multipack; priced per 100g
+Baked Beans 4x415g,Pantry,100g,Morrisons,1.09,2026-01-24,Multipack; priced per 100g
+Baked Beans 4x415g,Pantry,100g,Aldi,0.95,2026-01-24,Multipack; priced per 100g
+Baked Beans 4x415g,Pantry,100g,Lidl,0.94,2026-01-24,Multipack; priced per 100g
+Baked Beans 4x415g,Pantry,100g,Ocado,1.2,2026-01-24,Multipack; priced per 100g
+Peanut Butter Smooth 340g,Pantry,100g,Tesco,0.86,2026-01-24,340g jar; priced per 100g
+Peanut Butter Smooth 340g,Pantry,100g,Sainsburys,0.91,2026-01-24,340g jar; priced per 100g
+Peanut Butter Smooth 340g,Pantry,100g,Waitrose,0.94,2026-01-24,340g jar; priced per 100g
+Peanut Butter Smooth 340g,Pantry,100g,Asda,0.8,2026-01-24,340g jar; priced per 100g
+Peanut Butter Smooth 340g,Pantry,100g,Morrisons,0.81,2026-01-24,340g jar; priced per 100g
+Peanut Butter Smooth 340g,Pantry,100g,Aldi,0.81,2026-01-24,340g jar; priced per 100g
+Peanut Butter Smooth 340g,Pantry,100g,Lidl,0.8,2026-01-24,340g jar; priced per 100g
+Peanut Butter Smooth 340g,Pantry,100g,Ocado,0.98,2026-01-24,340g jar; priced per 100g
+Jam Strawberry 454g,Pantry,100g,Tesco,0.89,2026-01-24,454g jar; priced per 100g
+Jam Strawberry 454g,Pantry,100g,Sainsburys,0.93,2026-01-24,454g jar; priced per 100g
+Jam Strawberry 454g,Pantry,100g,Waitrose,1.01,2026-01-24,454g jar; priced per 100g
+Jam Strawberry 454g,Pantry,100g,Asda,0.88,2026-01-24,454g jar; priced per 100g
+Jam Strawberry 454g,Pantry,100g,Morrisons,0.91,2026-01-24,454g jar; priced per 100g
+Jam Strawberry 454g,Pantry,100g,Aldi,0.88,2026-01-24,454g jar; priced per 100g
+Jam Strawberry 454g,Pantry,100g,Lidl,0.86,2026-01-24,454g jar; priced per 100g
+Jam Strawberry 454g,Pantry,100g,Ocado,1.03,2026-01-24,454g jar; priced per 100g
+Honey Clear 340g,Pantry,100g,Tesco,0.73,2026-01-24,340g jar; priced per 100g
+Honey Clear 340g,Pantry,100g,Sainsburys,0.8,2026-01-24,340g jar; priced per 100g
+Honey Clear 340g,Pantry,100g,Waitrose,0.86,2026-01-24,340g jar; priced per 100g
+Honey Clear 340g,Pantry,100g,Asda,0.73,2026-01-24,340g jar; priced per 100g
+Honey Clear 340g,Pantry,100g,Morrisons,0.77,2026-01-24,340g jar; priced per 100g
+Honey Clear 340g,Pantry,100g,Aldi,0.72,2026-01-24,340g jar; priced per 100g
+Honey Clear 340g,Pantry,100g,Lidl,0.67,2026-01-24,340g jar; priced per 100g
+Honey Clear 340g,Pantry,100g,Ocado,0.85,2026-01-24,340g jar; priced per 100g
+Cereal Corn Flakes 500g,Pantry,100g,Tesco,0.57,2026-01-24,500g box; priced per 100g
+Cereal Corn Flakes 500g,Pantry,100g,Sainsburys,0.63,2026-01-24,500g box; priced per 100g
+Cereal Corn Flakes 500g,Pantry,100g,Waitrose,0.68,2026-01-24,500g box; priced per 100g
+Cereal Corn Flakes 500g,Pantry,100g,Asda,0.58,2026-01-24,500g box; priced per 100g
+Cereal Corn Flakes 500g,Pantry,100g,Morrisons,0.6,2026-01-24,500g box; priced per 100g
+Cereal Corn Flakes 500g,Pantry,100g,Aldi,0.57,2026-01-24,500g box; priced per 100g
+Cereal Corn Flakes 500g,Pantry,100g,Lidl,0.56,2026-01-24,500g box; priced per 100g
+Cereal Corn Flakes 500g,Pantry,100g,Ocado,0.69,2026-01-24,500g box; priced per 100g
+Cereal Oats 1kg,Pantry,1kg,Tesco,4.68,2026-01-24,1kg bag
+Cereal Oats 1kg,Pantry,1kg,Sainsburys,4.5,2026-01-24,1kg bag
+Cereal Oats 1kg,Pantry,1kg,Waitrose,4.95,2026-01-24,1kg bag
+Cereal Oats 1kg,Pantry,1kg,Asda,4.72,2026-01-24,1kg bag
+Cereal Oats 1kg,Pantry,1kg,Morrisons,4.51,2026-01-24,1kg bag
+Cereal Oats 1kg,Pantry,1kg,Aldi,4.08,2026-01-24,1kg bag
+Cereal Oats 1kg,Pantry,1kg,Lidl,4.1,2026-01-24,1kg bag
+Cereal Oats 1kg,Pantry,1kg,Ocado,5.21,2026-01-24,1kg bag
+Coffee Instant 200g,Pantry,100g,Tesco,1.53,2026-01-24,200g jar; priced per 100g
+Coffee Instant 200g,Pantry,100g,Sainsburys,1.58,2026-01-24,200g jar; priced per 100g
+Coffee Instant 200g,Pantry,100g,Waitrose,1.73,2026-01-24,200g jar; priced per 100g
+Coffee Instant 200g,Pantry,100g,Asda,1.44,2026-01-24,200g jar; priced per 100g
+Coffee Instant 200g,Pantry,100g,Morrisons,1.44,2026-01-24,200g jar; priced per 100g
+Coffee Instant 200g,Pantry,100g,Aldi,1.39,2026-01-24,200g jar; priced per 100g
+Coffee Instant 200g,Pantry,100g,Lidl,1.46,2026-01-24,200g jar; priced per 100g
+Coffee Instant 200g,Pantry,100g,Ocado,1.79,2026-01-24,200g jar; priced per 100g
+Tea Bags 80 pack,Pantry,pack,Tesco,2.92,2026-01-24,80 tea bags
+Tea Bags 80 pack,Pantry,pack,Sainsburys,3.09,2026-01-24,80 tea bags
+Tea Bags 80 pack,Pantry,pack,Waitrose,3.31,2026-01-24,80 tea bags
+Tea Bags 80 pack,Pantry,pack,Asda,2.84,2026-01-24,80 tea bags
+Tea Bags 80 pack,Pantry,pack,Morrisons,2.85,2026-01-24,80 tea bags
+Tea Bags 80 pack,Pantry,pack,Aldi,2.67,2026-01-24,80 tea bags
+Tea Bags 80 pack,Pantry,pack,Lidl,2.74,2026-01-24,80 tea bags
+Tea Bags 80 pack,Pantry,pack,Ocado,3.39,2026-01-24,80 tea bags
+Crisps Salted 6 pack,Snacks,pack,Tesco,2.84,2026-01-24,Multipack crisps
+Crisps Salted 6 pack,Snacks,pack,Sainsburys,3.02,2026-01-24,Multipack crisps
+Crisps Salted 6 pack,Snacks,pack,Waitrose,3.28,2026-01-24,Multipack crisps
+Crisps Salted 6 pack,Snacks,pack,Asda,2.66,2026-01-24,Multipack crisps
+Crisps Salted 6 pack,Snacks,pack,Morrisons,2.74,2026-01-24,Multipack crisps
+Crisps Salted 6 pack,Snacks,pack,Aldi,2.5,2026-01-24,Multipack crisps
+Crisps Salted 6 pack,Snacks,pack,Lidl,2.5,2026-01-24,Multipack crisps
+Crisps Salted 6 pack,Snacks,pack,Ocado,3.22,2026-01-24,Multipack crisps
+Chocolate Milk 100g,Snacks,each,Tesco,1.29,2026-01-24,100g bar
+Chocolate Milk 100g,Snacks,each,Sainsburys,1.32,2026-01-24,100g bar
+Chocolate Milk 100g,Snacks,each,Waitrose,1.46,2026-01-24,100g bar
+Chocolate Milk 100g,Snacks,each,Asda,1.24,2026-01-24,100g bar
+Chocolate Milk 100g,Snacks,each,Morrisons,1.28,2026-01-24,100g bar
+Chocolate Milk 100g,Snacks,each,Aldi,1.15,2026-01-24,100g bar
+Chocolate Milk 100g,Snacks,each,Lidl,1.25,2026-01-24,100g bar
+Chocolate Milk 100g,Snacks,each,Ocado,1.53,2026-01-24,100g bar
+Biscuits Digestives 400g,Snacks,100g,Tesco,1.18,2026-01-24,400g pack; priced per 100g
+Biscuits Digestives 400g,Snacks,100g,Sainsburys,1.21,2026-01-24,400g pack; priced per 100g
+Biscuits Digestives 400g,Snacks,100g,Waitrose,1.35,2026-01-24,400g pack; priced per 100g
+Biscuits Digestives 400g,Snacks,100g,Asda,1.17,2026-01-24,400g pack; priced per 100g
+Biscuits Digestives 400g,Snacks,100g,Morrisons,1.27,2026-01-24,400g pack; priced per 100g
+Biscuits Digestives 400g,Snacks,100g,Aldi,1.15,2026-01-24,400g pack; priced per 100g
+Biscuits Digestives 400g,Snacks,100g,Lidl,1.16,2026-01-24,400g pack; priced per 100g
+Biscuits Digestives 400g,Snacks,100g,Ocado,1.45,2026-01-24,400g pack; priced per 100g
+Nuts Mixed 200g,Snacks,100g,Tesco,0.35,2026-01-24,200g bag; priced per 100g
+Nuts Mixed 200g,Snacks,100g,Sainsburys,0.35,2026-01-24,200g bag; priced per 100g
+Nuts Mixed 200g,Snacks,100g,Waitrose,0.39,2026-01-24,200g bag; priced per 100g
+Nuts Mixed 200g,Snacks,100g,Asda,0.33,2026-01-24,200g bag; priced per 100g
+Nuts Mixed 200g,Snacks,100g,Morrisons,0.32,2026-01-24,200g bag; priced per 100g
+Nuts Mixed 200g,Snacks,100g,Aldi,0.31,2026-01-24,200g bag; priced per 100g
+Nuts Mixed 200g,Snacks,100g,Lidl,0.33,2026-01-24,200g bag; priced per 100g
+Nuts Mixed 200g,Snacks,100g,Ocado,0.38,2026-01-24,200g bag; priced per 100g
+Popcorn Microwave 3 pack,Snacks,pack,Tesco,4.81,2026-01-24,3 microwave bags
+Popcorn Microwave 3 pack,Snacks,pack,Sainsburys,5.21,2026-01-24,3 microwave bags
+Popcorn Microwave 3 pack,Snacks,pack,Waitrose,5.6,2026-01-24,3 microwave bags
+Popcorn Microwave 3 pack,Snacks,pack,Asda,4.69,2026-01-24,3 microwave bags
+Popcorn Microwave 3 pack,Snacks,pack,Morrisons,5.18,2026-01-24,3 microwave bags
+Popcorn Microwave 3 pack,Snacks,pack,Aldi,4.6,2026-01-24,3 microwave bags
+Popcorn Microwave 3 pack,Snacks,pack,Lidl,4.66,2026-01-24,3 microwave bags
+Popcorn Microwave 3 pack,Snacks,pack,Ocado,5.59,2026-01-24,3 microwave bags
+Frozen Peas 1kg,Frozen,1kg,Tesco,2.14,2026-01-24,1kg bag
+Frozen Peas 1kg,Frozen,1kg,Sainsburys,2.2,2026-01-24,1kg bag
+Frozen Peas 1kg,Frozen,1kg,Waitrose,2.46,2026-01-24,1kg bag
+Frozen Peas 1kg,Frozen,1kg,Asda,2.12,2026-01-24,1kg bag
+Frozen Peas 1kg,Frozen,1kg,Morrisons,2.2,2026-01-24,1kg bag
+Frozen Peas 1kg,Frozen,1kg,Aldi,1.95,2026-01-24,1kg bag
+Frozen Peas 1kg,Frozen,1kg,Lidl,2.0,2026-01-24,1kg bag
+Frozen Peas 1kg,Frozen,1kg,Ocado,2.36,2026-01-24,1kg bag
+Frozen Chips 1.5kg,Frozen,1kg,Tesco,4.57,2026-01-24,1.5kg bag; priced per kg
+Frozen Chips 1.5kg,Frozen,1kg,Sainsburys,4.71,2026-01-24,1.5kg bag; priced per kg
+Frozen Chips 1.5kg,Frozen,1kg,Waitrose,5.05,2026-01-24,1.5kg bag; priced per kg
+Frozen Chips 1.5kg,Frozen,1kg,Asda,4.25,2026-01-24,1.5kg bag; priced per kg
+Frozen Chips 1.5kg,Frozen,1kg,Morrisons,4.52,2026-01-24,1.5kg bag; priced per kg
+Frozen Chips 1.5kg,Frozen,1kg,Aldi,3.97,2026-01-24,1.5kg bag; priced per kg
+Frozen Chips 1.5kg,Frozen,1kg,Lidl,4.21,2026-01-24,1.5kg bag; priced per kg
+Frozen Chips 1.5kg,Frozen,1kg,Ocado,5.24,2026-01-24,1.5kg bag; priced per kg
+Frozen Pizza Margherita,Frozen,each,Tesco,0.96,2026-01-24,One pizza
+Frozen Pizza Margherita,Frozen,each,Sainsburys,1.02,2026-01-24,One pizza
+Frozen Pizza Margherita,Frozen,each,Waitrose,1.16,2026-01-24,One pizza
+Frozen Pizza Margherita,Frozen,each,Asda,0.99,2026-01-24,One pizza
+Frozen Pizza Margherita,Frozen,each,Morrisons,1.02,2026-01-24,One pizza
+Frozen Pizza Margherita,Frozen,each,Aldi,0.9,2026-01-24,One pizza
+Frozen Pizza Margherita,Frozen,each,Lidl,0.91,2026-01-24,One pizza
+Frozen Pizza Margherita,Frozen,each,Ocado,1.13,2026-01-24,One pizza
+Ice Cream Vanilla 1L,Frozen,1L,Tesco,1.84,2026-01-24,1L tub
+Ice Cream Vanilla 1L,Frozen,1L,Sainsburys,2.0,2026-01-24,1L tub
+Ice Cream Vanilla 1L,Frozen,1L,Waitrose,2.15,2026-01-24,1L tub
+Ice Cream Vanilla 1L,Frozen,1L,Asda,1.84,2026-01-24,1L tub
+Ice Cream Vanilla 1L,Frozen,1L,Morrisons,1.9,2026-01-24,1L tub
+Ice Cream Vanilla 1L,Frozen,1L,Aldi,1.59,2026-01-24,1L tub
+Ice Cream Vanilla 1L,Frozen,1L,Lidl,1.67,2026-01-24,1L tub
+Ice Cream Vanilla 1L,Frozen,1L,Ocado,2.07,2026-01-24,1L tub
+Water Still 6x1.5L,Drinks,1L,Tesco,0.8,2026-01-24,9L total; priced per litre
+Water Still 6x1.5L,Drinks,1L,Sainsburys,0.84,2026-01-24,9L total; priced per litre
+Water Still 6x1.5L,Drinks,1L,Waitrose,0.86,2026-01-24,9L total; priced per litre
+Water Still 6x1.5L,Drinks,1L,Asda,0.75,2026-01-24,9L total; priced per litre
+Water Still 6x1.5L,Drinks,1L,Morrisons,0.79,2026-01-24,9L total; priced per litre
+Water Still 6x1.5L,Drinks,1L,Aldi,0.7,2026-01-24,9L total; priced per litre
+Water Still 6x1.5L,Drinks,1L,Lidl,0.71,2026-01-24,9L total; priced per litre
+Water Still 6x1.5L,Drinks,1L,Ocado,0.88,2026-01-24,9L total; priced per litre
+Orange Juice 1L,Drinks,1L,Tesco,2.01,2026-01-24,1L carton
+Orange Juice 1L,Drinks,1L,Sainsburys,1.96,2026-01-24,1L carton
+Orange Juice 1L,Drinks,1L,Waitrose,2.31,2026-01-24,1L carton
+Orange Juice 1L,Drinks,1L,Asda,1.91,2026-01-24,1L carton
+Orange Juice 1L,Drinks,1L,Morrisons,2.02,2026-01-24,1L carton
+Orange Juice 1L,Drinks,1L,Aldi,1.89,2026-01-24,1L carton
+Orange Juice 1L,Drinks,1L,Lidl,1.79,2026-01-24,1L carton
+Orange Juice 1L,Drinks,1L,Ocado,2.22,2026-01-24,1L carton
+Apple Juice 1L,Drinks,1L,Tesco,1.61,2026-01-24,1L carton
+Apple Juice 1L,Drinks,1L,Sainsburys,1.59,2026-01-24,1L carton
+Apple Juice 1L,Drinks,1L,Waitrose,1.77,2026-01-24,1L carton
+Apple Juice 1L,Drinks,1L,Asda,1.54,2026-01-24,1L carton
+Apple Juice 1L,Drinks,1L,Morrisons,1.61,2026-01-24,1L carton
+Apple Juice 1L,Drinks,1L,Aldi,1.41,2026-01-24,1L carton
+Apple Juice 1L,Drinks,1L,Lidl,1.46,2026-01-24,1L carton
+Apple Juice 1L,Drinks,1L,Ocado,1.88,2026-01-24,1L carton
+Cola 2L,Drinks,1L,Tesco,1.05,2026-01-24,2L bottle; priced per litre
+Cola 2L,Drinks,1L,Sainsburys,0.98,2026-01-24,2L bottle; priced per litre
+Cola 2L,Drinks,1L,Waitrose,1.19,2026-01-24,2L bottle; priced per litre
+Cola 2L,Drinks,1L,Asda,1.0,2026-01-24,2L bottle; priced per litre
+Cola 2L,Drinks,1L,Morrisons,0.98,2026-01-24,2L bottle; priced per litre
+Cola 2L,Drinks,1L,Aldi,0.88,2026-01-24,2L bottle; priced per litre
+Cola 2L,Drinks,1L,Lidl,0.95,2026-01-24,2L bottle; priced per litre
+Cola 2L,Drinks,1L,Ocado,1.15,2026-01-24,2L bottle; priced per litre
+Sparkling Water 4x500ml,Drinks,1L,Tesco,2.15,2026-01-24,2L total; priced per litre
+Sparkling Water 4x500ml,Drinks,1L,Sainsburys,2.27,2026-01-24,2L total; priced per litre
+Sparkling Water 4x500ml,Drinks,1L,Waitrose,2.42,2026-01-24,2L total; priced per litre
+Sparkling Water 4x500ml,Drinks,1L,Asda,2.09,2026-01-24,2L total; priced per litre
+Sparkling Water 4x500ml,Drinks,1L,Morrisons,2.2,2026-01-24,2L total; priced per litre
+Sparkling Water 4x500ml,Drinks,1L,Aldi,2.03,2026-01-24,2L total; priced per litre
+Sparkling Water 4x500ml,Drinks,1L,Lidl,2.1,2026-01-24,2L total; priced per litre
+Sparkling Water 4x500ml,Drinks,1L,Ocado,2.61,2026-01-24,2L total; priced per litre
+Beer Alcohol Free 4 pack,Drinks,pack,Tesco,4.01,2026-01-24,4 cans/bottles (alcohol-free)
+Beer Alcohol Free 4 pack,Drinks,pack,Sainsburys,4.07,2026-01-24,4 cans/bottles (alcohol-free)
+Beer Alcohol Free 4 pack,Drinks,pack,Waitrose,4.86,2026-01-24,4 cans/bottles (alcohol-free)
+Beer Alcohol Free 4 pack,Drinks,pack,Asda,3.93,2026-01-24,4 cans/bottles (alcohol-free)
+Beer Alcohol Free 4 pack,Drinks,pack,Morrisons,4.07,2026-01-24,4 cans/bottles (alcohol-free)
+Beer Alcohol Free 4 pack,Drinks,pack,Aldi,3.54,2026-01-24,4 cans/bottles (alcohol-free)
+Beer Alcohol Free 4 pack,Drinks,pack,Lidl,3.79,2026-01-24,4 cans/bottles (alcohol-free)
+Beer Alcohol Free 4 pack,Drinks,pack,Ocado,4.51,2026-01-24,4 cans/bottles (alcohol-free)
+Toilet Roll 9 pack,Household,pack,Tesco,5.07,2026-01-24,9 rolls
+Toilet Roll 9 pack,Household,pack,Sainsburys,5.08,2026-01-24,9 rolls
+Toilet Roll 9 pack,Household,pack,Waitrose,5.77,2026-01-24,9 rolls
+Toilet Roll 9 pack,Household,pack,Asda,5.0,2026-01-24,9 rolls
+Toilet Roll 9 pack,Household,pack,Morrisons,4.96,2026-01-24,9 rolls
+Toilet Roll 9 pack,Household,pack,Aldi,4.6,2026-01-24,9 rolls
+Toilet Roll 9 pack,Household,pack,Lidl,4.77,2026-01-24,9 rolls
+Toilet Roll 9 pack,Household,pack,Ocado,5.74,2026-01-24,9 rolls
+Kitchen Roll 2 pack,Household,pack,Tesco,3.04,2026-01-24,2 rolls
+Kitchen Roll 2 pack,Household,pack,Sainsburys,3.17,2026-01-24,2 rolls
+Kitchen Roll 2 pack,Household,pack,Waitrose,3.45,2026-01-24,2 rolls
+Kitchen Roll 2 pack,Household,pack,Asda,3.12,2026-01-24,2 rolls
+Kitchen Roll 2 pack,Household,pack,Morrisons,3.1,2026-01-24,2 rolls
+Kitchen Roll 2 pack,Household,pack,Aldi,2.97,2026-01-24,2 rolls
+Kitchen Roll 2 pack,Household,pack,Lidl,3.02,2026-01-24,2 rolls
+Kitchen Roll 2 pack,Household,pack,Ocado,3.53,2026-01-24,2 rolls
+Washing Up Liquid 450ml,Household,100ml,Tesco,0.68,2026-01-24,450ml bottle; priced per 100ml
+Washing Up Liquid 450ml,Household,100ml,Sainsburys,0.69,2026-01-24,450ml bottle; priced per 100ml
+Washing Up Liquid 450ml,Household,100ml,Waitrose,0.75,2026-01-24,450ml bottle; priced per 100ml
+Washing Up Liquid 450ml,Household,100ml,Asda,0.65,2026-01-24,450ml bottle; priced per 100ml
+Washing Up Liquid 450ml,Household,100ml,Morrisons,0.68,2026-01-24,450ml bottle; priced per 100ml
+Washing Up Liquid 450ml,Household,100ml,Aldi,0.64,2026-01-24,450ml bottle; priced per 100ml
+Washing Up Liquid 450ml,Household,100ml,Lidl,0.65,2026-01-24,450ml bottle; priced per 100ml
+Washing Up Liquid 450ml,Household,100ml,Ocado,0.76,2026-01-24,450ml bottle; priced per 100ml
+Laundry Detergent 30 washes,Household,pack,Tesco,3.47,2026-01-24,Approx. 30-wash pack
+Laundry Detergent 30 washes,Household,pack,Sainsburys,3.67,2026-01-24,Approx. 30-wash pack
+Laundry Detergent 30 washes,Household,pack,Waitrose,4.14,2026-01-24,Approx. 30-wash pack
+Laundry Detergent 30 washes,Household,pack,Asda,3.16,2026-01-24,Approx. 30-wash pack
+Laundry Detergent 30 washes,Household,pack,Morrisons,3.68,2026-01-24,Approx. 30-wash pack
+Laundry Detergent 30 washes,Household,pack,Aldi,3.21,2026-01-24,Approx. 30-wash pack
+Laundry Detergent 30 washes,Household,pack,Lidl,3.42,2026-01-24,Approx. 30-wash pack
+Laundry Detergent 30 washes,Household,pack,Ocado,4.02,2026-01-24,Approx. 30-wash pack
+Shampoo 400ml,Household,100ml,Tesco,0.39,2026-01-24,400ml bottle; priced per 100ml
+Shampoo 400ml,Household,100ml,Sainsburys,0.42,2026-01-24,400ml bottle; priced per 100ml
+Shampoo 400ml,Household,100ml,Waitrose,0.48,2026-01-24,400ml bottle; priced per 100ml
+Shampoo 400ml,Household,100ml,Asda,0.39,2026-01-24,400ml bottle; priced per 100ml
+Shampoo 400ml,Household,100ml,Morrisons,0.38,2026-01-24,400ml bottle; priced per 100ml
+Shampoo 400ml,Household,100ml,Aldi,0.38,2026-01-24,400ml bottle; priced per 100ml
+Shampoo 400ml,Household,100ml,Lidl,0.36,2026-01-24,400ml bottle; priced per 100ml
+Shampoo 400ml,Household,100ml,Ocado,0.45,2026-01-24,400ml bottle; priced per 100ml
+Toothpaste 75ml,Household,each,Tesco,1.18,2026-01-24,Standard 75ml tube
+Toothpaste 75ml,Household,each,Sainsburys,1.19,2026-01-24,Standard 75ml tube
+Toothpaste 75ml,Household,each,Waitrose,1.34,2026-01-24,Standard 75ml tube
+Toothpaste 75ml,Household,each,Asda,1.15,2026-01-24,Standard 75ml tube
+Toothpaste 75ml,Household,each,Morrisons,1.21,2026-01-24,Standard 75ml tube
+Toothpaste 75ml,Household,each,Aldi,1.12,2026-01-24,Standard 75ml tube
+Toothpaste 75ml,Household,each,Lidl,1.12,2026-01-24,Standard 75ml tube
+Toothpaste 75ml,Household,each,Ocado,1.35,2026-01-24,Standard 75ml tube
+Porridge Pots 8 pack,Pantry,pack,Tesco,1.41,2026-01-24,Instant porridge multipack
+Porridge Pots 8 pack,Pantry,pack,Sainsburys,1.5,2026-01-24,Instant porridge multipack
+Porridge Pots 8 pack,Pantry,pack,Waitrose,1.66,2026-01-24,Instant porridge multipack
+Porridge Pots 8 pack,Pantry,pack,Asda,1.38,2026-01-24,Instant porridge multipack
+Porridge Pots 8 pack,Pantry,pack,Morrisons,1.46,2026-01-24,Instant porridge multipack
+Porridge Pots 8 pack,Pantry,pack,Aldi,1.34,2026-01-24,Instant porridge multipack
+Porridge Pots 8 pack,Pantry,pack,Lidl,1.37,2026-01-24,Instant porridge multipack
+Porridge Pots 8 pack,Pantry,pack,Ocado,1.73,2026-01-24,Instant porridge multipack
+Protein Yogurt 4 pack,Dairy,pack,Tesco,2.68,2026-01-24,High-protein yogurt multipack
+Protein Yogurt 4 pack,Dairy,pack,Sainsburys,2.77,2026-01-24,High-protein yogurt multipack
+Protein Yogurt 4 pack,Dairy,pack,Waitrose,3.23,2026-01-24,High-protein yogurt multipack
+Protein Yogurt 4 pack,Dairy,pack,Asda,2.75,2026-01-24,High-protein yogurt multipack
+Protein Yogurt 4 pack,Dairy,pack,Morrisons,2.86,2026-01-24,High-protein yogurt multipack
+Protein Yogurt 4 pack,Dairy,pack,Aldi,2.32,2026-01-24,High-protein yogurt multipack
+Protein Yogurt 4 pack,Dairy,pack,Lidl,2.5,2026-01-24,High-protein yogurt multipack
+Protein Yogurt 4 pack,Dairy,pack,Ocado,2.84,2026-01-24,High-protein yogurt multipack
+Hummus 200g,Chilled,100g,Tesco,1.89,2026-01-24,200g tub; priced per 100g
+Hummus 200g,Chilled,100g,Sainsburys,1.9,2026-01-24,200g tub; priced per 100g
+Hummus 200g,Chilled,100g,Waitrose,2.11,2026-01-24,200g tub; priced per 100g
+Hummus 200g,Chilled,100g,Asda,1.78,2026-01-24,200g tub; priced per 100g
+Hummus 200g,Chilled,100g,Morrisons,1.94,2026-01-24,200g tub; priced per 100g
+Hummus 200g,Chilled,100g,Aldi,1.68,2026-01-24,200g tub; priced per 100g
+Hummus 200g,Chilled,100g,Lidl,1.77,2026-01-24,200g tub; priced per 100g
+Hummus 200g,Chilled,100g,Ocado,2.18,2026-01-24,200g tub; priced per 100g
+Guacamole 200g,Chilled,100g,Tesco,1.11,2026-01-24,200g tub; priced per 100g
+Guacamole 200g,Chilled,100g,Sainsburys,1.14,2026-01-24,200g tub; priced per 100g
+Guacamole 200g,Chilled,100g,Waitrose,1.25,2026-01-24,200g tub; priced per 100g
+Guacamole 200g,Chilled,100g,Asda,1.03,2026-01-24,200g tub; priced per 100g
+Guacamole 200g,Chilled,100g,Morrisons,1.13,2026-01-24,200g tub; priced per 100g
+Guacamole 200g,Chilled,100g,Aldi,1.03,2026-01-24,200g tub; priced per 100g
+Guacamole 200g,Chilled,100g,Lidl,1.02,2026-01-24,200g tub; priced per 100g
+Guacamole 200g,Chilled,100g,Ocado,1.3,2026-01-24,200g tub; priced per 100g
+Salsa 300g,Pantry,100g,Tesco,0.48,2026-01-24,300g jar; priced per 100g
+Salsa 300g,Pantry,100g,Sainsburys,0.46,2026-01-24,300g jar; priced per 100g
+Salsa 300g,Pantry,100g,Waitrose,0.53,2026-01-24,300g jar; priced per 100g
+Salsa 300g,Pantry,100g,Asda,0.44,2026-01-24,300g jar; priced per 100g
+Salsa 300g,Pantry,100g,Morrisons,0.46,2026-01-24,300g jar; priced per 100g
+Salsa 300g,Pantry,100g,Aldi,0.43,2026-01-24,300g jar; priced per 100g
+Salsa 300g,Pantry,100g,Lidl,0.42,2026-01-24,300g jar; priced per 100g
+Salsa 300g,Pantry,100g,Ocado,0.53,2026-01-24,300g jar; priced per 100g
+Tortilla Chips 200g,Snacks,100g,Tesco,0.92,2026-01-24,200g bag; priced per 100g
+Tortilla Chips 200g,Snacks,100g,Sainsburys,0.95,2026-01-24,200g bag; priced per 100g
+Tortilla Chips 200g,Snacks,100g,Waitrose,1.05,2026-01-24,200g bag; priced per 100g
+Tortilla Chips 200g,Snacks,100g,Asda,0.95,2026-01-24,200g bag; priced per 100g
+Tortilla Chips 200g,Snacks,100g,Morrisons,0.91,2026-01-24,200g bag; priced per 100g
+Tortilla Chips 200g,Snacks,100g,Aldi,0.85,2026-01-24,200g bag; priced per 100g
+Tortilla Chips 200g,Snacks,100g,Lidl,0.82,2026-01-24,200g bag; priced per 100g
+Tortilla Chips 200g,Snacks,100g,Ocado,1.08,2026-01-24,200g bag; priced per 100g
+Pesto Basil 190g,Pantry,100g,Tesco,1.3,2026-01-24,190g jar; priced per 100g
+Pesto Basil 190g,Pantry,100g,Sainsburys,1.34,2026-01-24,190g jar; priced per 100g
+Pesto Basil 190g,Pantry,100g,Waitrose,1.41,2026-01-24,190g jar; priced per 100g
+Pesto Basil 190g,Pantry,100g,Asda,1.21,2026-01-24,190g jar; priced per 100g
+Pesto Basil 190g,Pantry,100g,Morrisons,1.32,2026-01-24,190g jar; priced per 100g
+Pesto Basil 190g,Pantry,100g,Aldi,1.15,2026-01-24,190g jar; priced per 100g
+Pesto Basil 190g,Pantry,100g,Lidl,1.2,2026-01-24,190g jar; priced per 100g
+Pesto Basil 190g,Pantry,100g,Ocado,1.42,2026-01-24,190g jar; priced per 100g
+Soy Sauce 150ml,Pantry,100ml,Tesco,0.51,2026-01-24,150ml bottle; priced per 100ml
+Soy Sauce 150ml,Pantry,100ml,Sainsburys,0.52,2026-01-24,150ml bottle; priced per 100ml
+Soy Sauce 150ml,Pantry,100ml,Waitrose,0.57,2026-01-24,150ml bottle; priced per 100ml
+Soy Sauce 150ml,Pantry,100ml,Asda,0.46,2026-01-24,150ml bottle; priced per 100ml
+Soy Sauce 150ml,Pantry,100ml,Morrisons,0.49,2026-01-24,150ml bottle; priced per 100ml
+Soy Sauce 150ml,Pantry,100ml,Aldi,0.45,2026-01-24,150ml bottle; priced per 100ml
+Soy Sauce 150ml,Pantry,100ml,Lidl,0.46,2026-01-24,150ml bottle; priced per 100ml
+Soy Sauce 150ml,Pantry,100ml,Ocado,0.57,2026-01-24,150ml bottle; priced per 100ml
+Coconut Milk 400ml,Pantry,100ml,Tesco,0.59,2026-01-24,400ml can; priced per 100ml
+Coconut Milk 400ml,Pantry,100ml,Sainsburys,0.62,2026-01-24,400ml can; priced per 100ml
+Coconut Milk 400ml,Pantry,100ml,Waitrose,0.71,2026-01-24,400ml can; priced per 100ml
+Coconut Milk 400ml,Pantry,100ml,Asda,0.54,2026-01-24,400ml can; priced per 100ml
+Coconut Milk 400ml,Pantry,100ml,Morrisons,0.58,2026-01-24,400ml can; priced per 100ml
+Coconut Milk 400ml,Pantry,100ml,Aldi,0.52,2026-01-24,400ml can; priced per 100ml
+Coconut Milk 400ml,Pantry,100ml,Lidl,0.54,2026-01-24,400ml can; priced per 100ml
+Coconut Milk 400ml,Pantry,100ml,Ocado,0.65,2026-01-24,400ml can; priced per 100ml
