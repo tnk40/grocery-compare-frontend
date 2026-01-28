@@ -29,4 +29,3 @@ https://tnk40.github.io/grocery-compare-frontend/
 
 - [Live App](https://tnk40.github.io/grocery-compare-frontend/)
 - [API Docs](https://backend-production-5565.up.railway.app/docs)
-EOF
