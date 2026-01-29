@@ -8,8 +8,8 @@ https://tnk40.github.io/grocery-compare-frontend/
 
 ## Features
 
-- Compare prices across Tesco, Sainsburys, Asda, Waitrose
 - Build shopping lists
+- Compare prices across multiple UK supermarkets to make more informed shopping decisions
 - See which store is cheapest for your basket
 - Save and load lists with a free account
 
